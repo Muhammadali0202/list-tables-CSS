@@ -79,7 +79,7 @@ table.two {
 } */
 
 /* GAPS BETWEEN CELLS */
-td {
+/* td {
   background-color: #0088dd;
   padding: 15px;
   border: 2px solid #000000;
@@ -87,4 +87,58 @@ td {
 table {
   border-spacing: 5px 15px;
   border-collapse: collapse;
+} */
+
+/* #ln {
+  margin-top: 5px;
+}
+input {
+  font-size: xx-large;
+  color: red;
+  background-color: black;
+  color: white;
+} */
+
+/* input {
+  border: 5px solid red;
+  border-radius: 10px;
+} */
+
+/* input:hover {
+  background-color: black;
+}
+
+input:focus {
+  border: 5px solid red;
+  outline: none;
+} */
+
+/* #email {
+  background-image: url(./icons8-email-48.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  padding-left: 15px;
+}
+#github {
+  background-image: url(./icons8-github-10.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  padding-left: 15px;
+} */
+
+/* STYLING FIELDSET AND LEGEND */
+fieldset {
+  width: 350px;
+  border: 1px solid #dcdcdc;
+  border-radius: 10px;
+  padding: 20px;
+  text-align: right;
+}
+legend {
+  background-color: #efefef;
+  border: 1px solid #dcdcdc;
+  border-radius: 10px;
+  padding: 10px 20px;
+  text-align: left;
+  text-transform: uppercase;
 }
