@@ -26,6 +26,65 @@ li {
 } */
 
 /* LIST SHORTHAND */
-ul {
+/* ul {
   list-style: inside square;
+} */
+
+/* TABLE PROPERTIES */
+/* table {
+  width: 600px;
+  padding: 20px;
+  text-transform: uppercase;
+  border-top: 1px solid green;
+  border-bottom: 1px solid red;
+}
+
+table,
+td,
+th {
+  border: 1px solid red;
+  border-collapse: collapse;
+  text-align: left;
+}
+table {
+  background-color: aqua;
+}
+
+tr:hover {
+  background-color: wheat;
+  cursor: pointer;
+}
+td {
+  padding: 5px;
+}
+
+th {
+  font-weight: bolder;
+}
+
+.even {
+  background-color: black;
+  color: white;
+} */
+
+/* td {
+  border: 1px solid #0088dd;
+  padding: 15px;
+}
+table.one {
+  empty-cells: show;
+}
+table.two {
+  empty-cells: hide;
+} */
+
+/* GAPS BETWEEN CELLS */
+td {
+  background-color: #0088dd;
+  padding: 15px;
+  border: 2px solid #000000;
+}
+table {
+  border-spacing: 5px 15px;
+  border-collapse: collapse;
 }
